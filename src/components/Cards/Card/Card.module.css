@@ -1,0 +1,12 @@
+.card {
+  margin: 0 2% !important;
+      height: auto;
+      width: 100%;
+}
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 2% 0 !important;
+        height: auto;
+        
+  }
+}
